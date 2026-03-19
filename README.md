@@ -2,7 +2,7 @@
 
 ### Cloud & Platform Engineer | AIOps & DevOps | MS in CS '24
 
-I am a **Cloud Engineer** with a versatile background spanning **Software Engineering**, **DevOps**, and **Platform Engineering**. I recently completed my **Master's in Computer Science and Engineering (2024)**. My expertise lies in architecting resilient cloud infrastructure on AWS and Azure, automating operations through AIOps, and building robust backend services.
+I am a **Cloud Engineer** with a versatile background spanning **Software Engineering**, **DevOps**, and **Platform Engineering**. I completed my **Master's in Computer Science and Engineering in 2024**. My expertise lies in architecting resilient cloud infrastructure on AWS and Azure, automating operations through AIOps, and building robust backend services.
 
 ---
 
